@@ -1,0 +1,178 @@
+.agency-layout-3, .agency-layout-3 * { box-sizing: border-box; }.agency-layout-3 {background: #ffffff; display: flex; flex-direction: column; gap: 0px; align-items: center; justify-content: center; position: relative; overflow: hidden;}
+ .navigation-1 {background: #eb682d; flex-shrink: 0; width: 600px; height: 97px; position: relative; box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.50); overflow: hidden;}
+ .navigation {position: absolute; inset: 0;}
+ .menu-bar {width: 162px; height: 24px; position: static;}
+ .anasayfa {color: var(--black, #191919); text-align: center; font: 600 14px/24px 'Poppins', sans-serif; text-decoration: underline; position: absolute; left: 398px;top: 36px; width: 90px;}
+ .leti-im {color: var(--black, #191919); text-align: center; font: 600 14px/24px 'Poppins', sans-serif; text-decoration: underline; position: absolute; left: 507px;top: 36px; width: 53px;}
+ .logo-agency-purple {width: 220px; height: 39px; position: absolute; left: 40px;top: 30px;}
+ .logo-agency-purple2 {width: 220px; height: 39px; position: absolute; left: 0px;top: 0px;}
+ .spacer {background: #46b1c9; flex-shrink: 0; width: 600px; height: 20px; position: relative; overflow: hidden;}
+ .spacer2 {background: #46b1c9; flex-shrink: 0; width: 600px; height: 10px; position: relative; overflow: hidden;}
+ ._1-49 {flex-shrink: 0; width: 600px; height: 519px; position: relative;}
+ .mask-group {position: absolute; inset: 0;}
+ .whatsapp {color: var(--black, #191919); text-align: center; font: 600 51px/24px 'Poppins', sans-serif; text-decoration: underline; position: absolute; left: 300px;top: 445px; width: 255px; height: 38px;}
+ ._1-492 {width: 600px; height: 519px; position: absolute; left: 0px;top: 0px;}
+ .vector-1 {position: absolute; left: 300px;top: 492px; overflow: visible;}
+ .rectangle-2 {background: #eb682d; width: 22px; height: 293px; position: absolute; left: 578px;top: 236px;}
+ .rectangle-22 {background: #46b1c9; width: 11px; height: 89px; position: absolute; left: 0px;top: 430px;}
+ ._1-50 {flex-shrink: 0; width: 600px; height: 600px; position: relative;}
+ ._1-493 {width: 600px; height: 600px; position: absolute; left: 0px;top: 0px;}
+ .content-4 {background: var(--white, #ffffff); flex-shrink: 0; width: 600px; height: 152px; position: relative; overflow: hidden;}
+ .title {position: absolute; inset: 0;}
+ .lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry {color: #595959; text-align: center; font: 400 14px/24px 'Poppins', sans-serif; position: absolute; left: 40px;top: 104px; width: 520px;}
+ .look-at-our-works {color: #191919; text-align: center; font: 700 28px/38px 'Poppins', sans-serif; position: absolute; left: 40px;top: 61px; width: 520px;}
+ .our-portfolio {color: #eb682d; text-align: center; font: 700 14px/24px 'Poppins', sans-serif; position: absolute; left: 40px;top: 30px; width: 520px;}
+ .service-6 {background: var(--white, #ffffff); flex-shrink: 0; width: 600px; height: 283px; position: relative; overflow: hidden;}
+ .services {position: absolute; inset: 0;}
+ .column-3 {width: 160px; height: 213px; position: static;}
+ .lorem-ipsum-is-simply-dummy-text {color: var(--davy-s-gray, #595959); text-align: center; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 400px;top: 123px; width: 160px;}
+ .marketing {color: var(--black, #191919); text-align: center; font: 700 17px/20px 'Poppins', sans-serif; position: absolute; left: 400px;top: 90px; width: 160px;}
+ .icon-img-9 {width: 50px; height: 50px; position: absolute; left: 455px;top: 30px;}
+ .icon-img-15-1 {width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .column-2 {width: 160px; height: 213px; position: static;}
+ .lorem-ipsum-is-simply-dummy-text2 {color: var(--davy-s-gray, #595959); text-align: center; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 220px;top: 123px; width: 160px;}
+ .data {color: var(--black, #191919); text-align: center; font: 700 17px/20px 'Poppins', sans-serif; position: absolute; left: 220px;top: 90px; width: 160px;}
+ .icon-img-8 {width: 50px; height: 50px; position: absolute; left: 275px;top: 30px;}
+ .icon-img-13 {width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .column-1 {width: 160px; height: 213px; position: static;}
+ .lorem-ipsum-is-simply-dummy-text3 {color: var(--davy-s-gray, #595959); text-align: center; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 40px;top: 123px; width: 160px;}
+ .research {color: var(--black, #191919); text-align: center; font: 700 17px/20px 'Poppins', sans-serif; position: absolute; left: 40px;top: 90px; width: 160px;}
+ .icon-img-7 {width: 50px; height: 50px; position: absolute; left: 95px;top: 30px;}
+ .icon-13 {width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .feature-3 {background: var(--white, #ffffff); flex-shrink: 0; width: 600px; height: 405px; position: relative; overflow: hidden;}
+ .other-module {position: absolute; inset: 0;}
+ .about-img-5-1 {border-radius: 4px; width: 250px; height: 345px; position: absolute; left: 40px;top: 30px;}
+ .info {width: 250px; height: 249px; position: static;}
+ .rounded-button-m {background: #eb682d; border-radius: 45px; padding: 12px 36px 12px 36px; display: flex; flex-direction: row; gap: 8px; align-items: center; justify-content: center; position: absolute; left: calc(50% - -15px);top: 271px; overflow: hidden;}
+ .get-started {color: var(--white, #ffffff); text-align: center; font: 600 14px/24px 'Poppins', sans-serif; text-decoration: underline; position: relative;}
+ .talk-more-about-your-project {color: var(--black, #191919); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 336px;top: 169px; width: 224px;}
+ .we-help-businesses-grow-fast {color: var(--black, #191919); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 336px;top: 198px; width: 224px;}
+ .change-the-way-for-business {color: var(--black, #191919); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 336px;top: 227px; width: 224px;}
+ .icon-img-11 {width: 16px; height: 16px; position: absolute; left: 310px;top: 173px;}
+ .icon-img-5 {width: 16px; height: 16px; position: absolute; left: 0px;top: 0px;}
+ .icon-img-112 {width: 16px; height: 16px; position: absolute; left: 310px;top: 202px;}
+ .icon-img-113 {width: 16px; height: 16px; position: absolute; left: 310px;top: 231px;}
+ .why-wait-start-your-own-business {color: var(--black, #191919); text-align: left; font: var(--title-2, 700 20px/30px 'Poppins', sans-serif); position: absolute; left: 310px;top: 99px; width: 250px;}
+ .our-vision {color: #eb682d; text-align: left; font: var(--button-text, 600 14px/24px 'Poppins', sans-serif); position: absolute; left: 310px;top: 70px; width: 250px;}
+ .spacer3 {background: var(--white, #ffffff); flex-shrink: 0; width: 600px; height: 20px; position: relative; overflow: hidden;}
+ .spacer4 {background: var(--white, #ffffff); flex-shrink: 0; width: 600px; height: 10px; position: relative; overflow: hidden;}
+ .other-module-7 {background: var(--white, #ffffff); flex-shrink: 0; width: 600px; height: 153px; position: relative; overflow: hidden;}
+ .other-module-72 {position: absolute; inset: 0;}
+ .cta-bg-22-1 {width: 600px; height: 153px; position: absolute; left: 0px;top: 0px;}
+ .other-modules {width: 520px; height: 53px; position: static;}
+ .client-img-4 {width: 140px; height: 53px; position: absolute; left: 40px;top: 49px;}
+ .youtube-logo-white {width: 140px; height: 53px; position: absolute; left: 0px;top: 0px;}
+ .client-img-5 {width: 140px; height: 53px; position: absolute; left: 230px;top: 49px;}
+ .webflow-logo-white {width: 140px; height: 53px; position: absolute; left: 0px;top: 0px;}
+ .client-img-6 {width: 140px; height: 53px; position: absolute; left: 420px;top: 49px;}
+ .facebook-logo-white {width: 140px; height: 53px; position: absolute; left: 0px;top: 0px;}
+ .our-portfolio2 {color: #eb682d; text-align: center; font: 700 16px/26px 'Poppins', sans-serif; position: absolute; left: 40px;top: 30px; width: 520px;}
+ .service-5 {background: var(--white, #ffffff); flex-shrink: 0; width: 600px; height: 572px; position: relative; overflow: hidden;}
+ .service {position: absolute; inset: 0;}
+ .column-22 {width: 520px; height: 246px; position: static;}
+ .column-12 {width: 250px; height: 246px; position: static;}
+ .bg-color {background: var(--light-gray, #f9f9f9); border-radius: 8px; width: 250px; height: 246px; position: absolute; left: 40px;top: 296px;}
+ .link-arrow-l {display: flex; flex-direction: row; gap: 8px; align-items: center; justify-content: center; height: 25px; position: absolute; left: calc(50% - 221.5px);top: 477px;}
+ .button-text {flex-shrink: 0; width: 71px; height: 26px; position: static;}
+ .explore-features {color: var(--black, #191919); text-align: center; font: 600 16px/26px 'Poppins', sans-serif; text-decoration: underline; position: absolute; left: 0px;top: -0.5px; display: flex;align-items: flex-end;justify-content: center}
+ .arrow {border-radius: 0px 0px 0px 0px; flex-shrink: 0; position: relative; overflow: visible;}
+ .lorem-ipsum-is-text-simply-dummy-ipsum-text {color: var(--davy-s-gray, #595959); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 70px;top: 419px; width: 190px;}
+ .technology {color: var(--black, #191919); text-align: left; font: var(--title-3, 700 18px/28px 'Poppins', sans-serif); position: absolute; left: 70px;top: 386px; width: 190px;}
+ .icon-img-52 {width: 50px; height: 50px; position: absolute; left: 70px;top: 326px;}
+ .icon-18 {width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .column-23 {width: 250px; height: 246px; position: static;}
+ .bg-color2 {background: var(--light-gray, #f9f9f9); border-radius: 8px; width: 250px; height: 246px; position: absolute; left: 310px;top: 296px;}
+ .link-arrow-l2 {display: flex; flex-direction: row; gap: 8px; align-items: center; justify-content: center; height: 25px; position: absolute; left: calc(50% - -48.5px);top: 477px;}
+ .arrow2 {border-radius: 0px 0px 0px 0px; flex-shrink: 0; position: relative; overflow: visible;}
+ .lorem-ipsum-is-text-simply-dummy-ipsum-text2 {color: var(--davy-s-gray, #595959); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 340px;top: 419px; width: 190px;}
+ .development {color: var(--black, #191919); text-align: left; font: var(--title-3, 700 18px/28px 'Poppins', sans-serif); position: absolute; left: 340px;top: 386px; width: 190px;}
+ .icon-img-3 {width: 50px; height: 50px; position: absolute; left: 340px;top: 326px;}
+ .icon-3 {width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .column-13 {width: 520px; height: 246px; position: static;}
+ .bg-color3 {background: var(--light-gray, #f9f9f9); border-radius: 8px; width: 250px; height: 246px; position: absolute; left: 40px;top: 30px;}
+ .link-arrow-l3 {display: flex; flex-direction: row; gap: 8px; align-items: center; justify-content: center; height: 25px; position: absolute; left: calc(50% - 221.5px);top: 211px;}
+ .arrow3 {border-radius: 0px 0px 0px 0px; flex-shrink: 0; position: relative; overflow: visible;}
+ .lorem-ipsum-is-text-simply-dummy-ipsum-text3 {color: var(--davy-s-gray, #595959); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 70px;top: 153px; width: 190px;}
+ .design {color: var(--black, #191919); text-align: left; font: var(--title-3, 700 18px/28px 'Poppins', sans-serif); position: absolute; left: 70px;top: 120px; width: 190px;}
+ .icon-img-12 {width: 50px; height: 50px; position: absolute; left: 70px;top: 60px;}
+ .icon-16 {width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .bg-color4 {background: var(--light-gray, #f9f9f9); border-radius: 8px; width: 250px; height: 246px; position: absolute; left: 310px;top: 30px;}
+ .link-arrow-l4 {display: flex; flex-direction: row; gap: 8px; align-items: center; justify-content: center; height: 25px; position: absolute; left: calc(50% - -48.5px);top: 211px;}
+ .arrow4 {border-radius: 0px 0px 0px 0px; flex-shrink: 0; position: relative; overflow: visible;}
+ .lorem-ipsum-is-text-simply-dummy-ipsum-text4 {color: var(--davy-s-gray, #595959); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 340px;top: 153px; width: 190px;}
+ .business {color: var(--black, #191919); text-align: left; font: var(--title-3, 700 18px/28px 'Poppins', sans-serif); position: absolute; left: 340px;top: 120px; width: 190px;}
+ .icon-img-32 {width: 50px; height: 50px; position: absolute; left: 340px;top: 60px;}
+ .feature-2 {background: var(--white, #ffffff); flex-shrink: 0; width: 600px; height: 433px; position: relative; overflow: hidden;}
+ .about-img-6-1 {border-radius: 8px; width: 530px; height: 373px; position: absolute; left: 30px;top: 30px;}
+ .rectangle-1 {background: rgba(249, 249, 249, 0.85); border-radius: 8px; width: 246px; height: 373px; position: absolute; left: 30px;top: 30px;}
+ .info2 {width: 230px; height: 331.02px; position: static;}
+ .email-design-for-your-business {color: var(--black, #191919); text-align: left; font: var(--title-1, 700 24px/34px 'Poppins', sans-serif); position: absolute; left: 40px;top: 92.97px; width: 229.93px; height: 67.97px;}
+ .about-us {color: var(--kartelam-turuncusu, #eb682d); text-align: left; font: var(--button-text, 600 14px/24px 'Poppins', sans-serif); position: absolute; left: 40.07px;top: 63.98px; width: 229.93px; height: 23.99px;}
+ .kartelam-ekibi-tekstil-ve-teknoloji-sekt-rlerinde-deneyimli-yelerin-bir-araya-gelmesiyle-olu-an-yenilik-i-bir-ekiptir-alanlar-nda-uzman-gen-ve-dinamik-bir-kadrodan-olu-maktad-r {color: var(--davy-s-gray, #595959); text-align: left; font: var(--discription, 400 16px/26px 'Poppins', sans-serif); position: absolute; left: 40px;top: 166px; width: 230px; height: 229px;}
+ .other-module2 {flex-shrink: 0; width: 600px; height: 205px; position: static;}
+ .cta-bg-8 {width: 600px; height: 205px; position: absolute; left: 0px;top: 3456px;}
+ .kartelam-firmalar-toplam-hracat {color: #ffffff; text-align: center; font: var(--sub-title, 600 16px/26px 'Poppins', sans-serif); position: absolute; left: 398px;top: 3562px; width: 161px; height: 50px;}
+ .tan-ml-varyant {color: #ffffff; text-align: center; font: var(--sub-title, 600 16px/26px 'Poppins', sans-serif); position: absolute; left: 206px;top: 3562px; width: 115px; height: 50px;}
+ ._200-m {color: #ffffff; text-align: left; font: 700 italic 42px/52px 'Lora', sans-serif; position: absolute; left: 398px;top: 3505px;}
+ ._90-000 {color: #ffffff; text-align: left; font: 700 italic 42px/52px 'Lora', sans-serif; position: absolute; left: 192px;top: 3505px;}
+ .tamamlanan-proje {color: #ffffff; text-align: center; font: var(--sub-title, 600 16px/26px 'Poppins', sans-serif); position: absolute; left: 39px;top: 3562px; width: 115px; height: 50px;}
+ ._200 {color: #ffffff; text-align: left; font: 700 italic 42px/52px 'Lora', sans-serif; position: absolute; left: 48px;top: 3505px;}
+ .footer-1 {background: var(--white, #ffffff); flex-shrink: 0; width: 600px; height: 309px; position: relative; overflow: hidden;}
+ .footer {position: absolute; inset: 0;}
+ .bg-color5 {background: var(--black, #191919); width: 600px; height: 309px; position: absolute; left: 0px;top: 0px;}
+ .column-24 {width: 180px; height: 24px; position: static;}
+ .abonelikten-ayr-l {color: var(--white, #ffffff); text-align: right; font: 400 14px/24px 'Poppins', sans-serif; position: absolute; left: 389px;top: 245px; width: 180px;}
+ .column-14 {width: 363px; height: 24px; position: static;}
+ .copyright-kartelam-com-2023-t-m-haklar-sakl-d-r {color: var(--white, #ffffff); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 40px;top: 245px; width: 363px;}
+.copyright-kartelam-com-2023-t-m-haklar-sakl-d-r-span {
+      color: var(--white, #ffffff);
+      font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif);
+    }
+.copyright-kartelam-com-2023-t-m-haklar-sakl-d-r-span2 {
+      color: var(--white, #ffffff);
+      font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif);
+      text-decoration: underline;
+    }
+.copyright-kartelam-com-2023-t-m-haklar-sakl-d-r-span3 {
+      color: var(--white, #ffffff);
+      font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif);
+    }
+ .divider {position: absolute; left: 40px;top: 213.5px; overflow: visible;}
+ .column-32 {width: 142px; height: 142px; position: static;}
+ .di-er-linkler {color: var(--white, #ffffff); text-align: left; font: var(--info-title-1, 600 16px/26px 'Poppins', sans-serif); position: absolute; left: 430px;top: 43px; width: 130px;}
+ .sss-kay-t-ol-whatsapp-business-veri-gizlili-i-politikas {color: var(--white, #ffffff); text-align: left; font: 400 14px/24px 'Poppins', sans-serif; text-decoration: underline; position: absolute; left: 430px;top: 89px; width: 142px;}
+.sss-kay-t-ol-whatsapp-business-veri-gizlili-i-politikas-span {
+      color: var(--white, #ffffff);
+      font: 400 14px/24px 'Poppins', sans-serif;
+      text-decoration: underline;
+    }
+.sss-kay-t-ol-whatsapp-business-veri-gizlili-i-politikas-span2 {
+      color: var(--white, #ffffff);
+      font: 400 14px/24px 'Poppins', sans-serif;
+      text-decoration: underline;
+    }
+.sss-kay-t-ol-whatsapp-business-veri-gizlili-i-politikas-span3 {
+      color: var(--white, #ffffff);
+      font: 400 14px/24px 'Poppins', sans-serif;
+      text-decoration: underline;
+    }
+.sss-kay-t-ol-whatsapp-business-veri-gizlili-i-politikas-span4 {
+      color: var(--white, #ffffff);
+      font: 400 14px/24px 'Poppins', sans-serif;
+      text-decoration: underline;
+    }
+ .column-25 {width: 170px; height: 142px; position: static;}
+ .leti-im-bilgileri {color: var(--white, #ffffff); text-align: left; font: var(--info-title-1, 600 16px/26px 'Poppins', sans-serif); position: absolute; left: 240px;top: 43px; width: 170px;}
+ .aray-n-90-212-974-8568-mail-at-n-info-kartelam-com {color: var(--white, #ffffff); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 240px;top: 89px; width: 170px;}
+ .column-15 {width: 180px; height: 139px; position: static;}
+ .a-d-blok-tekmer-k-k-ekmece-stanbul {color: var(--white, #ffffff); text-align: left; font: var(--discription-1, 400 14px/24px 'Poppins', sans-serif); position: absolute; left: 40px;top: 91px; width: 180px;}
+ .instagram {width: 30px; height: 30px; position: absolute; left: 80px;top: 149px;}
+ .instagram2 {width: 30px; height: 30px; position: absolute; left: 0px;top: 0px;}
+ .link {width: 30px; height: 30px; position: absolute; left: 40px;top: 149px;}
+ .link2 {width: 30px; height: 30px; position: absolute; left: 0px;top: 0px;}
+ .facebook {width: 30px; height: 30px; position: absolute; left: 120px;top: 149px;}
+ .facebook2 {width: 30px; height: 30px; position: absolute; left: 0px;top: 0px;}
+ .youtube {width: 30px; height: 30px; position: absolute; left: 160px;top: 148px;}
+ .youtube2 {width: 30px; height: 30px; position: absolute; left: 0px;top: 0px;}
+ .logo-agency-white {width: 180px; height: 31px; position: absolute; left: 40px;top: 40px;}
+ .logo-agency-white2 {width: 180px; height: 31px; position: absolute; left: 0px;top: 0px;}
